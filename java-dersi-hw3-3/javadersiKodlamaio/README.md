@@ -1,4 +1,4 @@
-#Ödev 3
+<a href="#about-the-project">ÖDEV3</a>
 
 kodlama.io web sitesinin ana sayfasında bulunan eğitmen, kategori ve kurs bölümlerini katmanlı mimaride kodlamak istiyoruz.
 

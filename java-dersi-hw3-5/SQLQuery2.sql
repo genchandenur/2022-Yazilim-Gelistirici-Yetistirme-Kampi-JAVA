@@ -1,4 +1,5 @@
-﻿-- Select * from Customers -- customers tablosundaki tüm satırları al 
+-- https://www.youtube.com/watch?v=r_pbdopB4LU&list=PLqG356ExoxZVN7rC0KmMo0lvECK97VRZg&index=6
+-- Select * from Customers -- customers tablosundaki tüm satırları al 
 -- alt satır çalıştığında memoryde fake bir tablo oluşur ve bize onu gösterir.
 -- Bu alttaki satır bir tablodur ileride sorguya da select atıcaz.
 Select ContactName, CompanyName, City from Customers -- seçtiğim column'lar geldi

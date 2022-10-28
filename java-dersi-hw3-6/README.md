@@ -4,7 +4,7 @@ Aşağıdaki oynatma listesi çok önemli.
 
 **Gereksinim:** ABC bankası olarak müşterilerimizin takibini yapabilmeliyiz.
 
-**Kabul kriterleri:**
+**Kabul kriterleri**
 1. İki tip müşterimiz mevcut. Gerçek müşteriler, Tüzel müşteriler
 2. Gerçek müşteri; MüşteriNo, Ad, Soyad, TcKimlikNo alanlarına sahiptir.
 3. Tüzel Müşteriler; MüşteriNo, Unvan, VergiNo alanlarına sahiptir.
@@ -12,7 +12,6 @@ Aşağıdaki oynatma listesi çok önemli.
 5. Tüzel müşterilerin her 6 aylık dönemde bilanço bilgilerini kaydetmeliyiz. Örneğin 3 yıllık bir tüzel müşterinin her 6 aya denk gelen 6 adet bilanço kaydı olmalıdır. Bilanço bilgisi olarak bilanço tutarı ve bilanço tarihi bilgisini tutmak yeterlidir.
 6. Gerçek müşterilerin bazıları ticari faaliyet gerçekleştirebilmektedir. Bu tip müşterilerimiz için de bilanço takibi yapabilmeliyiz.
 7. Bir kişinin veya kurumun bankamızın müşterisi olabilmesi için çeşitli kanallar mevcuttur. (İnternet, Şubeler vb.) Müşterinin hangi kanaldan bankamıza ilk kez katıldığı bilgisini de tutmak istiyoruz.
-![image](https://user-images.githubusercontent.com/61150526/198586115-cbc22cb8-7880-4c42-9eb5-05aed851f61a.png)
 
 
 https://www.youtube.com/watch?v=4U54EVknm2Q&list=PLqG356ExoxZXZQt9edXkCS-_dunCq-bXm

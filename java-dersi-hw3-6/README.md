@@ -3,6 +3,7 @@ Aşağıdaki oynatma listesi çok önemli.
 İzleyip excel'de siz de uygulayınız.
 
 **Gereksinim:** ABC bankası olarak müşterilerimizin takibini yapabilmeliyiz.
+
 **Kabul kriterleri:**
 1. İki tip müşterimiz mevcut. Gerçek müşteriler, Tüzel müşteriler
 2. Gerçek müşteri; MüşteriNo, Ad, Soyad, TcKimlikNo alanlarına sahiptir.

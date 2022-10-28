@@ -16,4 +16,4 @@ Aşağıdaki oynatma listesi çok önemli.
 7. Bir kişinin veya kurumun bankamızın müşterisi olabilmesi için çeşitli kanallar mevcuttur. (İnternet, Şubeler vb.) Müşterinin hangi kanaldan bankamıza ilk kez katıldığı bilgisini de tutmak istiyoruz.
 
 
-https://www.youtube.com/watch?v=4U54EVknm2Q&list=PLqG356ExoxZXZQt9edXkCS-_dunCq-bXm
+**link:** https://www.youtube.com/watch?v=4U54EVknm2Q&list=PLqG356ExoxZXZQt9edXkCS-_dunCq-bXm
